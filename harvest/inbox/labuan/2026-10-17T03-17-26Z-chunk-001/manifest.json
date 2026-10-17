@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "labuan",
+  "agency_code": "PAPL",
+  "run_id": "2026-10-17T03-17-26Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:17:27.095Z",
+  "harvester": {
+    "name": "labuan-koha-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "31344a59b2ae35ec53d299b858251b0f0b2d49b18519c84bc822beee7e1decad"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "c2e78c229677687e04a6f40666faf5a5f0c0d714ce271eeae2ec54f63824ae0d"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "ad4ceaea3c8f5cd627f83286c2d2632143a915109fafc6daf37c9d245b0801b2"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "ae09fa6d98b22bc2a084a7002860d83a64a7aae721a8f734d4ed26dec738db50"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "eda98df8e32688726a21fbeb37f7107bc4c4dd07289156ee02abb9ed5cbdf404"
+    }
+  ]
+}
